@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pickle
 import pandas as pd
+import scikit-learn as sklearn
 from sklearn.preprocessing import StandardScaler
 from PIL import Image
 
