@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import pickle
 import pandas as pd
-from sklearn.preprocessing import StandardScaler
+from scikit-learn.preprocessing import StandardScaler
 from PIL import Image
 
 # Load model and scaler once
