@@ -1,5 +1,0 @@
-Streamlit
-Scikit-Learn
-NumPy
-Pandas
-Pillow
