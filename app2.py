@@ -3,7 +3,6 @@ import numpy as np
 import pickle
 import pandas as pd
 import sklearn
-from sklearn.preprocessing import StandardScaler
 from PIL import Image
 
 # Load model and scaler once
