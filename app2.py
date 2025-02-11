@@ -1,8 +1,11 @@
 import streamlit as st
+import sklearn
 import numpy as np
 import pickle
+from sklearn.preprocessing import StandardScaler
 import pandas as pd
 from PIL import Image
+
 
 # Load model and scaler once
 scaler = pickle.load(open('scaler.pkl', 'rb'))
